@@ -12,6 +12,6 @@ REPL - run `(require 'emerald.core)`.
 
 Lein - run `lein run`
 
-![emerald](./picture/emerald-preview.png)
+![emerald](./picture/emerald.gif)
 
 ## License
